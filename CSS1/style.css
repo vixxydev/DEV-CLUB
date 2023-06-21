@@ -1,0 +1,52 @@
+
+*{
+    background: gainsboro;
+}
+
+
+
+h1{
+    color: red;
+   
+    
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+}
+
+button{
+    background: green;
+    border-color: darkgreen;
+}
+
+#titulo{
+    color:red;
+    font-size: 55px;
+    }
+
+    #paragrafo{
+        color:blue;
+        font-size: 20px;
+        font-weight: bold;
+            }
+
+    #botao{
+        background: green;
+            }        
+
+    #segundo-botao{
+        background: chocolate;
+    }
+
+
+    .texto{
+        color:darkmagenta;
+        font-weight: bold;
+    }
+ 
+    .botao{
+        background: darkgrey;
+    }
+  
